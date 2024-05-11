@@ -8,7 +8,7 @@ Je m’appelle Clément et je suis passionné par tout ce qui tourne autour de l
 
 - 🔭 Je travaille actuellement sur ma formation et mes projets personnels comme réaliser les défis sur Frontend Mentor afin de travailler sur mes acquis et d'autres projets personnels afin de bien valider mes acquis et surtout de pouvoir les réaliser seul.
   
-- 🌱 Je suis en **formation intégrateur** web avec OpenClassRooms et j'aimerais poursuivre sur une **formation Python** un langage que je trouve intéressant offrant de nombreuses possibilités.
+- 🌱 Je suis en **formation intégrateur web** avec OpenClassRooms et j'aimerais poursuivre sur une **formation Python** un langage que je trouve intéressant offrant de nombreuses possibilités.
 
 - ✨ Je suis aussi d'autre petite formation pour me perfectionner sur JavaScript et React.  
 
@@ -28,9 +28,9 @@ Je m’appelle Clément et je suis passionné par tout ce qui tourne autour de l
 ### 4. Mes liens vers les réseaux :
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61558749970948"><img src="https://your-font-awesome-icon-url1" alt="Facebook" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-  
+  <a href="https://www.facebook.com/profile.php?id=61558749970948"><img src="https://github.com/ClementServant/ClementServant/blob/main/facebook_icon_130940.png" alt="Facebook" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://github.com/ClementServant/ClementServant/blob/main/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="30" height="30"></a>
+  <a href="mailto:SCdeveloppement@protonmail.com"><img src="https://github.com/ClementServant/ClementServant/blob/main/Mail_31108.png" alt="E-mail" width="30" height="30"></a>
 </p>
 
 

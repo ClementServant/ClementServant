@@ -28,8 +28,11 @@ Je m’appelle Clément et je suis passionné par tout ce qui tourne autour de l
 ### 4. Mes liens vers les réseaux :
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61558749970948"><img src="https://kit.fontawesome.com/21c3409e61.js" crossorigin="anonymous"><i class="fa-brands fa-facebook"></i></a>
+  <a href="https://www.facebook.com/profile.php?id=61558749970948"><img src="https://your-font-awesome-icon-url1" alt="Facebook" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+  
 </p>
+
 
 
 

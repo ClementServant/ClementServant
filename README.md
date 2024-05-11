@@ -47,8 +47,11 @@ Je m’appelle Clément et je suis passionné par tout ce qui tourne autour de l
 ![GitHub followers](https://img.shields.io/github/followers/ClementServant?label=Follow&style=social)
 
 
+> "Aimez ce que vous faites, et ensuite vous ferez de votre mieux."
+Katherine Johnson
 
-
+> "Suivez votre passion. Quoi que vous fassiez, faites de votre mieux à tout moment et rendez-le aussi correct que possible."
+Katherine Johnson
 
 
 

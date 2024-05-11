@@ -14,7 +14,7 @@ Je m’appelle Clément et je suis passionné par tout ce qui tourne autour de l
 
 ### 2. Mes projets personnels actuels :
 
-* Je travaille sur la création d'une a météo en HTML, CSS et JavaScript [FunnyWeather](https://github.com/ClementServant/FunnyWeather) en cours de développement.
+* Je travaille sur la création d'une app météo en HTML, CSS et JavaScript [FunnyWeather](https://github.com/ClementServant/FunnyWeather) en cours de développement.
 * J'essaie de réaliser tous les défis [Frontend Mentor](https://www.frontendmentor.io/home)
 
 ### 3. Mes objectifs :
